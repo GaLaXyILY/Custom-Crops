@@ -25,8 +25,9 @@ dependencies {
 
     compileOnly("net.Indyuce:MMOCore-API:1.12-SNAPSHOT")
     compileOnly("com.github.Archy-X:AureliumSkills:Beta1.3.23")
-    compileOnly("com.github.Zrips:Jobs:4.17.2")
-    compileOnly("dev.aurelium:auraskills-api-bukkit:2.0.0-SNAPSHOT")
+
+    compileOnly("com.github.Zrips:Jobs:v4.17.2")
+    compileOnly("dev.aurelium:auraskills-api-bukkit:2.1.2")
 
     // Items
     compileOnly("com.github.LoneDev6:api-itemsadder:3.6.2-beta-r3-b")
@@ -57,7 +58,7 @@ dependencies {
     implementation("net.kyori:adventure-platform-bukkit:4.3.3")
     implementation("net.kyori:adventure-text-minimessage:4.17.0")
     implementation("net.kyori:adventure-text-serializer-legacy:4.17.0")
-    implementation("com.github.Xiao-MoMi:AntiGriefLib:0.11")
+    implementation("com.github.Xiao-MoMi:AntiGriefLib:0.12")
 //    implementation("com.github.Xiao-MoMi:Sparrow-Heart:0.16")
     implementation("com.flowpowered:flow-nbt:2.0.2")
     implementation("com.saicone.rtag:rtag:1.5.4")
